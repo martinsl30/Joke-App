@@ -1,0 +1,16 @@
+C:\Users\Leo\workspace\desafios\projeto-piada\Joke Flix\obj\Debug\net5.0\Joke Flix.csproj.AssemblyReference.cache
+C:\Users\Leo\workspace\desafios\projeto-piada\Joke Flix\obj\Debug\net5.0\Joke Flix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\workspace\desafios\projeto-piada\Joke Flix\obj\Debug\net5.0\Joke Flix.AssemblyInfoInputs.cache
+C:\Users\Leo\workspace\desafios\projeto-piada\Joke Flix\obj\Debug\net5.0\Joke Flix.AssemblyInfo.cs
+C:\Users\Leo\workspace\desafios\projeto-piada\Joke Flix\obj\Debug\net5.0\Joke Flix.csproj.CoreCompileInputs.cache
+C:\Users\Leo\workspace\desafios\projeto-piada\Joke Flix\bin\Debug\net5.0\Joke Flix.exe
+C:\Users\Leo\workspace\desafios\projeto-piada\Joke Flix\bin\Debug\net5.0\Joke Flix.deps.json
+C:\Users\Leo\workspace\desafios\projeto-piada\Joke Flix\bin\Debug\net5.0\Joke Flix.runtimeconfig.json
+C:\Users\Leo\workspace\desafios\projeto-piada\Joke Flix\bin\Debug\net5.0\Joke Flix.runtimeconfig.dev.json
+C:\Users\Leo\workspace\desafios\projeto-piada\Joke Flix\bin\Debug\net5.0\Joke Flix.dll
+C:\Users\Leo\workspace\desafios\projeto-piada\Joke Flix\bin\Debug\net5.0\ref\Joke Flix.dll
+C:\Users\Leo\workspace\desafios\projeto-piada\Joke Flix\bin\Debug\net5.0\Joke Flix.pdb
+C:\Users\Leo\workspace\desafios\projeto-piada\Joke Flix\obj\Debug\net5.0\Joke Flix.dll
+C:\Users\Leo\workspace\desafios\projeto-piada\Joke Flix\obj\Debug\net5.0\ref\Joke Flix.dll
+C:\Users\Leo\workspace\desafios\projeto-piada\Joke Flix\obj\Debug\net5.0\Joke Flix.pdb
+C:\Users\Leo\workspace\desafios\projeto-piada\Joke Flix\obj\Debug\net5.0\Joke Flix.genruntimeconfig.cache
